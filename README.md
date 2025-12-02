@@ -1,9 +1,16 @@
-- 👋 Hi, I’m @fabricioarce
-- 👀 I’m interested in Web develop
-- 🌱 I’m currently learning javaScript and C++
-- 😄 Pronouns: he/him
+# Hi, I’m Fabricio 👋
+I’m a student from Costa Rica passionate about technology, cybersecurity, programming, and problem-solving.
+I study in a competitive pre-university program and also participate in national competitions in informatics, math, and logic.
 
-<!---
-fabricioarce/fabricioarce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔧 What I work on
+- Competitive programming (mostly C++)
+- Personal learning projects
+- Tech, Linux, and productivity experiments
+## 🛠️ Tools I use
+- C++, Python (learning)
+- Linux
+- Cyber security software
+## 🎯 Goals
+- Improve in competitive programming
+- Grow my technical skills through projects
+- Learn more about cybersecurity and software development
